@@ -41,7 +41,19 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#eeffff"
+			}
+		},
+		// variable constants and 
+		{
+			"name": "Variables",
+			"scope": [
+				"variable.other.constant",
+				"constant.language",
+				"meta.var-single-variable.expr.js"
+			],
+			"settings": {
+				"foreground": "#d77efc"
 			}
 		},
 		{
